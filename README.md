@@ -1,2 +1,28 @@
-# CodeAlpha_Data_Analytics_Tasks
-This repository contains my CodeAlpha Data Analytics Internship tasks including Web Scraping, Exploratory Data Analysis (EDA), and Data Visualization using Python libraries such as Pandas, Matplotlib, and Seaborn.
+# CodeAlpha Tasks
+
+This repository contains my **CodeAlpha Data Analytics Internship tasks**.
+
+## Completed Tasks
+
+1️⃣ Web Scraping  
+- Extracted data from websites using Python libraries such as BeautifulSoup and Requests.
+
+2️⃣ Exploratory Data Analysis (EDA)  
+- Analyzed datasets to understand patterns, trends, and relationships using Pandas.
+
+3️⃣ Data Visualization  
+- Created visual insights using Matplotlib and Seaborn to better understand the data.
+
+4️⃣ Sentiment Analysis  
+- Performed sentiment analysis on textual data to classify reviews as Positive, Negative, or Neutral using Python NLP techniques.
+
+## Tools & Libraries Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- BeautifulSoup
+- TextBlob
+- NLTK
+
+This project demonstrates practical data analytics skills including **data collection, analysis, visualization, and natural language processing.**
